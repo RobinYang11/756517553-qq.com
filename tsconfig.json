@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es6",
+    "baseUrl": "src",
+    "module": "commonjs",
+    "outDir": "lib",
+    "declaration": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
